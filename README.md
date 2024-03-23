@@ -15,7 +15,7 @@ The main purpose of this assignment is to analyze 2 clustering algorithms:
 and 1 non-linear manifold algorithm:
 * t-Distributed Stochastic Neighbor Embeddings (t-SNE)
 
-The goal is to see how we can use clustering & dimensionality reduction to do unsupervised learning tasks, as well as sueprvised learning tasks like neural network training.
+The goal is to see how we can use clustering & dimensionality reduction to do unsupervised learning tasks, as well as supervised learning tasks like neural network training.
 
 We use the `scikit-learn` module to execute these experiments.
 
