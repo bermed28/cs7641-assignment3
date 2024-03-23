@@ -43,8 +43,6 @@ $ pip install -r requirements.txt
 
 ### Run Scripts
 
-#### Optimization Problems using Randomized Optimization Algorithms
-
 Open up `clustering_dim_reduction.ipynb` in VS Code (or your preferred editor/jupyter server), select your virtual environment (in this example `myenv`) as your kernel and run the code cells one by one.
 
 ----
